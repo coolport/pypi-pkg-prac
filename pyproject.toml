@@ -1,8 +1,8 @@
 [project]
 name = "example_package_coolport"
-version = "0.0.3"
+version = "0.0.4"
 authors = [{ name = "Aidan Alcayde", email = "aidanalcayde@gmail.com" }]
-description = "simple last.fm scrobbling daemon"
+description = "pypi, git tags, workflow, cicd practice package"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
