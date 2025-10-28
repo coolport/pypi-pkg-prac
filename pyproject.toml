@@ -1,6 +1,6 @@
 [project]
 name = "example_package_coolport"
-version = "0.0.2"
+version = "0.0.3"
 authors = [{ name = "Aidan Alcayde", email = "aidanalcayde@gmail.com" }]
 description = "simple last.fm scrobbling daemon"
 readme = "README.md"
