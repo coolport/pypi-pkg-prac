@@ -1,6 +1,6 @@
 [project]
 name = "example_package_coolport"
-version = "0.0.5"
+version = "0.0.10"
 authors = [{ name = "Aidan Alcayde", email = "aidanalcayde@gmail.com" }]
 description = "pypi, git tags, workflow, cicd practice package"
 readme = "README.md"
